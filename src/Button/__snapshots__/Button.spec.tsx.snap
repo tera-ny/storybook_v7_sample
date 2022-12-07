@@ -1,0 +1,9 @@
+// Vitest Snapshot v1
+
+exports[`Button component > Default > render component 1`] = `
+<button
+  class="module_buttonStyle__illoh50"
+>
+  button
+</button>
+`;
